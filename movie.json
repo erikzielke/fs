@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/kvXLZqY0Ngl1XSw7EaMQO0C1CCj.jpg",
+  "belongs_to_collection": null,
+  "budget": 130000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "http://marvel.com/movies/movie/180/ant-man",
+  "id": 102899,
+  "imdb_id": "tt0478970",
+  "original_language": "en",
+  "original_title": "Ant-Man",
+  "overview": "Armed with the astonishing ability to shrink in scale but increase in strength, con-man Scott Lang must embrace his inner-hero and help his mentor, Dr. Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.",
+  "popularity": 48.886069,
+  "poster_path": "/7SGGUiTE6oc2fh9MjIk5M00dsQd.jpg",
+  "production_companies": [
+    {
+      "name": "Walt Disney Pictures",
+      "id": 2
+    },
+    {
+      "name": "Marvel Entertainment, LLC",
+      "id": 325
+    },
+    {
+      "name": "Marvel Studios",
+      "id": 420
+    },
+    {
+      "name": "Big Talk Productions",
+      "id": 443
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-07-17",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Heroes Don't Get Any Bigger",
+  "title": "Ant-Man",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 792
+}
