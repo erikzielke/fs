@@ -1,5 +1,15 @@
 This is my submission to the Android Skills Assessment
 
+It is just two screens, a list of movies and a page with details.
+
+The search is in the toolbar, and searches on every keystroke, this could be optimized by waiting a little
+before actually performing the search. I have seen some tutorials making something similar using RxJava, but since I
+only have toyed around with it, I would not use it in this submission. Furthermore waiting requests should be cancelled,
+but did not release that retrofit did not support that, before I had made most of the app.
+
+The single movie page uses some Android Design Library Components to show the the backdrop image in
+the top, but scrolls almost away when scrolling. The endpoint did not contains that much interesting
+information, without calling further apis.
 
 
 Libraries used:
